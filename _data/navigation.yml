@@ -6,8 +6,12 @@ main:
     url: /publications/
   - title: "Education"
     url: /education/
-  - title: "CV"
-    url: /cv/
+  - title: "Events"
+    url: /events/
+  - title: "Awards"
+    url: /awards/
+  - title: "Experiences"
+    url: /experiences/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
