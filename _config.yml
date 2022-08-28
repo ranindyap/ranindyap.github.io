@@ -108,7 +108,7 @@ author:
   avatar           : "/assets/images/profile-photo.png"
   bio              : "PhD Student"
   location         : "University of Trento, Italy"
-  email            :
+  email            : "<first_name>.<last_name>@unitn.it"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -132,18 +132,19 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "LinkedIn"
-      icon: "fa fa-fw fa-linkedin-square"
-      url: "https://www.linkedin.com/in/ranindya-paramitha-5766b513a/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:ranindya.paramitha@unitn.it"
-    # - label: "Facebook"
-    #   icon: "fab fa-fw fa-facebook-square"
-    #   # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ranindyapunitn"
+    - label: "LinkedIn"
+      icon: "fa fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/ranindya-paramitha-5766b513a/"
+    # - label: "Facebook"
+    #   icon: "fab fa-fw fa-facebook-square"
+    #   # url:
+    
     # - label: "GitLab"
     #   icon: "fab fa-fw fa-gitlab"
     #   # url:
