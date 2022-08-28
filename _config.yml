@@ -108,7 +108,7 @@ author:
   avatar           : "/assets/images/profile-photo.png"
   bio              : "PhD Student"
   location         : "University of Trento, Italy"
-  email            : "<first_name>.<last_name>@unitn.it"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
