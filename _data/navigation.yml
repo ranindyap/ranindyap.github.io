@@ -11,7 +11,7 @@ main:
   - title: "Education"
     url: /#education
   - title: "CV"
-    url: /#cv
+    url: /cv/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
