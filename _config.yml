@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Ranindya Paramitha"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile-photo.png"
   bio              : "PhD Student"
   location         : "University of Trento, Italy"
   email            :
@@ -133,7 +133,7 @@ author:
 footer:
   links:
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fa fa-fw fa-linkedin-square"
       url: "https://www.linkedin.com/in/ranindya-paramitha-5766b513a/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
