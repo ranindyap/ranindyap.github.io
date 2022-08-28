@@ -4,8 +4,10 @@ main:
     url: /
   - title: "About"
     url: /#about-me
+  - title: "Research"
+    url: /#research-interest
   - title: "Publications"
-    url: /#publcations
+    url: /#publications
   - title: "Education"
     url: /#education
   - title: "CV"
