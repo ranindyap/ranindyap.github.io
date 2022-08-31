@@ -56,7 +56,7 @@ So... by sheer luck, it has a good meaning :)
 ## How did you end up in Italy? or Why do you choose Italy?
 On my last year of Master's, I told my supervisor: "I think I want to do a PhD, do you have any
 recommendations? Any university... professor?".
-He answered, "Have you ever looked up for **Fabio Massacci**? If you haven't, you should." This particular name
+He answered, "Have you ever looked up for [**Fabio Massacci**](https://fabiomassacci.github.io/)? If you haven't, you should." This particular name
 he mentioned turns out to be his supervisor when he did his PhD years ago.
 Then I googled it, found out that Fabio is working in the
 [University of Trento, Italy](https://iecs.unitn.it/) and the Vrije Universiteit Amsterdam, The Netherlands. I looked for the
