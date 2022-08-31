@@ -4,7 +4,7 @@ author_profile: true
 permalink: /faq/
 ---
 <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css"> -->
-{% include toc.html icon="gear" title="Table of Contents" sticky=true html=content%}
+{% include toc icon="gear" title="Table of Contents" sticky=true%}
 
 # FAQ
 This is *kinda* a **secret page**, which contains several FAQs about me.
