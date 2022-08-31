@@ -9,7 +9,7 @@ permalink: /faq/
 # FAQ
 This is *kinda* a **secret page**, which contains several FAQs about me.
 
-## How can you start your PhD when you are only **21**? 
+## How could you start your PhD when you were only **21**? 
 This is the **most frequently** asked question. <br>
 The short answer is ***"I skipped 3 years."*** <br>
 But I also have the long one. So if I referred you here, maybe I was not in the best condition to
