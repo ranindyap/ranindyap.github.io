@@ -10,10 +10,10 @@ toc_sticky: true
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 <!-- {% include toc icon="gear" title="Table of Contents" sticky=true%} -->
 
-#FAQ
+# FAQ
 This is *kinda* a **secret page**, which contains several FAQs about me.
 
-##How can you start your PhD when you are only **21**? 
+## How can you start your PhD when you are only **21**? 
 This is the **most frequently** asked question. <br>
 The short answer is ***"I skipped 3 years."*** <br>
 But I also have the long one. So if I referred you here, maybe I was not in the best condition to
@@ -45,7 +45,7 @@ Which then I get the total of -3 years from the common education path, 24 - 3 = 
     directly started my PhD
     after I finished my Master's.
 
-##Where does "Nanin" come from? 
+## Where does "Nanin" come from? 
 It comes from on top of my dad's *creative* mind, which I concluded has no meaning.
     Why? Because *every single time* I asked the meaning of it, his answer *changes*.
     However, out of curiosity (and denial of having a "meaningless" name) I googled it and I found this:
@@ -53,14 +53,14 @@ It comes from on top of my dad's *creative* mind, which I concluded has no meani
 Source: [Sutta: The Pali Text Society's Pali-English Dictionary](http://dictionary.sutta.org/) <br>
 So... by sheer luck, it has a good meaning :)
 
-##How did you end up in Italy? or Why do you choose Italy?
+## How did you end up in Italy? or Why do you choose Italy?
 On my last year of Master's, I told my supervisor: "I think I want to do a PhD, do you have any
-    recommendations? Any university... professor?".
-    He answered, "Have you ever looked up for **Fabio Massacci**? If you haven't, you should." This particular name
-    he mentioned turns out to be his supervisor when he did his PhD years ago.
-    Then I googled it, found out that Fabio is working in the
-    [University of Trento, Italy](https://iecs.unitn.it/) and the Vrije Universiteit Amsterdam, The Netherlands. I looked for the
-    application procedures for both, and turned out there was a PhD call
-    at the University of Trento at that time. I applied there on exactly the deadline day (Aug 31st), but I also emailed
-    Fabio directly for the position in VU (according to the procedure in their website).
-    Exactly one month after that (Oct 1st), I got the acceptance notification.
+recommendations? Any university... professor?".
+He answered, "Have you ever looked up for **Fabio Massacci**? If you haven't, you should." This particular name
+he mentioned turns out to be his supervisor when he did his PhD years ago.
+Then I googled it, found out that Fabio is working in the
+[University of Trento, Italy](https://iecs.unitn.it/) and the Vrije Universiteit Amsterdam, The Netherlands. I looked for the
+application procedures for both, and turned out there was a PhD call
+at the University of Trento at that time. I applied there on exactly the deadline day (Aug 31st), but I also emailed
+Fabio directly for the position in VU (according to the procedure in their website).
+Exactly one month after that (Oct 1st), I got the acceptance notification.
