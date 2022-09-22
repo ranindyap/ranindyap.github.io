@@ -24,10 +24,12 @@ First, **"How Education Works in Indonesia"**: <br>
 - High school takes 3 years. (15-18 y.o.)
 - Bachelor's degree takes 3-4 years depending on the major, for engineering mostly takes 4 years. (18-22 y.o)
 - Master's degree takes 2 years. (22-24 y.o.)
+
 Now you are annoyed, "Nanin, you don't answer the question!".
-    Well, I need to explain that to make sure everyone first gets how's the common education system in Indonesia,
-    as I now realize that this is not the same in all countries. <br>
+Well, I need to explain that to make sure everyone first gets how's the common education system in Indonesia,
+as I now realize that this is not the same in all countries. <br>
 Now, the real thing, **"How was *Mine***: <br>
+
 - I started elementary school at the age of 5.5 y.o, which I will round-down to 5 for simplicity. ***(-1)***
 - Elementary school (primary education) takes 6 years. (5-11 y.o.)
 - Junior high school takes 3 years. (11-14 y.o.)
@@ -50,7 +52,7 @@ Source: [Sutta: The Pali Text Society's Pali-English Dictionary](http://dictiona
 So... by sheer luck, it has a good meaning :)
 
 ## How did you end up in Italy? or Why do you choose Italy?
-On my last year of Master's, I told my supervisor: "I think I want to do a PhD, do you have any
+On my last year of Master's, I told my supervisor ([**Yudistira D. W. Asnar**](https://www.itb.ac.id/staf/profil/yudistira-dwi-wardhana-asnar)): "I think I want to do a PhD, do you have any
 recommendations? Any university... professor?".
 He answered, "Have you ever looked up for [**Fabio Massacci**](https://fabiomassacci.github.io/)? If you haven't, you should." This particular name
 he mentioned turns out to be his supervisor when he did his PhD years ago.
@@ -59,4 +61,4 @@ Then I googled it, found out that Fabio is working in the
 application procedures for both, and turned out there was a PhD call
 at the University of Trento at that time. I applied there on exactly the deadline day (Aug 31st), but I also emailed
 Fabio directly for the position in VU (according to the procedure in their website).
-Exactly one month after that (Oct 1st), I got the acceptance notification.
+Exactly one month after that (Oct 1st), I got the acceptance notification, thanks (also) to my former supervisor's recommendation letter.
