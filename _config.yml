@@ -106,13 +106,13 @@ analytics:
 author:
   name             : "Ranindya Paramitha"
   avatar           : "/assets/images/profile-photo.png"
-  bio              : "Research Fellow on Software Security"
-  location         : "University of Trento, Italy"
+  bio              : "Postdoctoral Research Scholar on Software Security"
+  location         : "North Carolina State University, Raleigh, NC, USA"
   email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:ranindya.paramitha@unitn.it"
+      url: "mailto:rparami@ncsu.edu"
     - label: "LinkedIn"
       icon: "fa fa-fw fa-linkedin-square"
       url: "https://www.linkedin.com/in/ranindya-paramitha-5766b513a/"
@@ -130,7 +130,7 @@ author:
     #   # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/ranindyapunitn"
+      url: "https://github.com/rnp-nanin"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   # url: "https://instagram.com/"
@@ -140,10 +140,10 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:ranindya.paramitha@unitn.it"
+      url: "mailto:rparami@ncsu.edu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/ranindyapunitn"
+      url: "https://github.com/rnp-nanin"
     - label: "LinkedIn"
       icon: "fa fa-fw fa-linkedin-square"
       url: "https://www.linkedin.com/in/ranindya-paramitha-5766b513a/"
