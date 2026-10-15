@@ -1,7 +1,7 @@
 ---
-layout: single
-author_profile: true
-permalink: /cprof/
+layout: home
+author_profile: false
+permalink: /good-christian-prof/
 ---
 <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css"> -->
 <!-- {% include toc icon="gear" title="Table of Contents" sticky=true%} -->
