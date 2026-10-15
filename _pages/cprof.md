@@ -39,6 +39,12 @@ An interview “study” with Christian faculty members and lesson summaries fro
 
 *Note: Blue text marks Nanin's additional comments.*
 
+## Prolog
+This document is <b>not</b> an "ultimate recipe" to be a good Christian professor.
+Instead, it summarizes the experiences of several Christians who became professors earlier.
+This document targets future Christian professors, a.k.a., Christians whose goal is to be a professor one day. I (Nanin) personally believe that being a professor (like any other occupation) is a calling from the Lord, and Christians should understand that they are Christians who just happened to be called as professors, and <b>not</b> professors who just happen to be Christians.
+This document is not meant to be used as a checklist, but it offers examples of what people have done. I encourage readers to find their own style according to the guidance of the Holy Spirit. Readers can pick and choose from the following examples some practices that fit their style and actually do them in their work. The goal is not to earn human approval (Galatians 1:10), yet as being a professor is a calling, I hope these practices can help the readers focus their hearts on the Lord and serve people around us well as we do our daily work (Colossians 3:23).
+
 ## Table of Contents
 - [Dr. Steven Hall](#dr-steven-hall)
 - [Dr. Kim Titus](#dr-kim-titus)
