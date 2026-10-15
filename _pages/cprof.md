@@ -3,6 +3,22 @@ layout: home
 author_profile: false
 classes: wide
 permalink: /good-christian-prof/
+
+<style>
+  /* Remove the left padding/margin reserved for the profile sidebar */
+  @media (min-width: 64em) {
+    .archive, .page {
+      width: 100% !important;
+      padding-right: 0 !important;
+    }
+    /* Force the main column to stop floating and occupy full width */
+    .layout--home .page {
+      float: none !important;
+      width: 100% !important;
+    }
+  }
+</style>
+
 ---
 <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css"> -->
 <!-- {% include toc icon="gear" title="Table of Contents" sticky=true%} -->
