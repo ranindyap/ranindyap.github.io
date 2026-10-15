@@ -5,7 +5,7 @@ classes: wide
 permalink: /good-christian-prof/
 ---
 <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css"> -->
-<!-- {% include toc icon="gear" title="Table of Contents" sticky=true%} -->
+{% include toc icon="gear" title="Table of Contents" sticky=true%}
 
 <style>
   /* Remove the left padding/margin reserved for the profile sidebar */
@@ -39,7 +39,7 @@ An interview “study” with Christian faculty members and lesson summaries fro
 
 *Note: Blue text marks Nanin's additional comments.*
 
-## Table of Contents
+<!-- ## Table of Contents
 - [Dr. Steven Hall](#dr-steven-hall)
 - [Dr. Kim Titus](#dr-kim-titus)
 - [Dr. Aaron Titus](#dr-aaron-titus)
@@ -48,7 +48,7 @@ An interview “study” with Christian faculty members and lesson summaries fro
 - [Common Call Conference 2026](#common-call-conference-2026)
   - [Dr. Lisa Beymer](#dr-lisa-beymer)
   - [Rick Hove](#rick-hove)
-  - [Matt O'Brien (and Dr. Lisa Beymer)](#matt-obrien-and-dr-lisa-beymer)
+  - [Matt O'Brien (and Dr. Lisa Beymer)](#matt-obrien-and-dr-lisa-beymer) -->
 
 ---
 
