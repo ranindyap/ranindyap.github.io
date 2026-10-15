@@ -3,6 +3,9 @@ layout: home
 author_profile: false
 classes: wide
 permalink: /good-christian-prof/
+---
+<!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css"> -->
+<!-- {% include toc icon="gear" title="Table of Contents" sticky=true%} -->
 
 <style>
   /* Remove the left padding/margin reserved for the profile sidebar */
@@ -18,10 +21,6 @@ permalink: /good-christian-prof/
     }
   }
 </style>
-
----
-<!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css"> -->
-<!-- {% include toc icon="gear" title="Table of Contents" sticky=true%} -->
 
 # How to be a Good Christian Professor
 An interview “study” with Christian faculty members and lesson summaries from conferences.
